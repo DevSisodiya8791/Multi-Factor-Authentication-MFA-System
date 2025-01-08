@@ -1,1 +1,4 @@
 # Team-Project
+Project Overview: Multi-Factor Authentication (MFA) System
+To build a secure authentication system using Passport.js, incorporating time-based OTP (TOTP) generation and verification through Speakeasy. The platform will ensure secure storage and retrieval of user data using MongoDB and provide secure routes for login, logout, status checks, and MFA setup, verification, and reset. Middleware will be implemented to protect routes with authentication checks.
+SecureAuth: This project involves developing a robust multi-factor authentication system to secure user accounts, combining Node.js, Express, Passport.js, and Speakeasy. The MFA system requires users to authenticate using two steps: username-password authentication and time-based OTP validation through an authenticator app like Google Authenticator.
